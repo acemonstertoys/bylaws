@@ -1274,9 +1274,9 @@ SECTION 9. TERMINATION OF MEMBERSHIP
 terminate upon the occurrence of any of the following events:
 
         (1)  Upon his or her notice of such termination delivered to the
-president or secretary of the corporation personally or by mail, such
-membership to terminate upon the date of delivery of the notice or date
-of deposit in the mail.
+president or secretary of the corporation personally or by electronic 
+or physical mail, such membership to terminate upon the date of delivery
+of the notice or date of deposit in the mail.
 
         (2)  Upon a determination by the board of directors that the
 member has engaged in conduct materially and seriously prejudicial to
@@ -1286,20 +1286,20 @@ the interests or purposes of the corporation.
 members, upon a failure to renew his or her membership by paying dues on
 or before their due date, such termination to be effective thirty (30)
 days after a written notification of delinquency is given personally or
-mailed to such member by the secretary of the corporation. A member may
-avoid such termination by paying the amount of delinquent dues within a
-thirty - (30) day period following the member's receipt of the written
-notification of delinquency.
+by physical or electronic mail to such member by the secretary of the
+corporation. A member may avoid such termination by paying the amount
+of delinquent dues within a thirty - (30) day period following the member's
+receipt of the written notification of delinquency.
 
 ​(b)  Procedure for Expulsion. Following the determination that a member
 should be expelled under subparagraph (a)(2) of this section, the
 following procedure shall be implemented:
 
-        (1)  A notice shall be sent by first-class or registered mail to
-the last address of the member as shown on the corporation's records,
-setting forth the expulsion and the reasons therefor. Such notice shall
-be sent at least fifteen (15) days before the proposed effective date of
-the expulsion.
+        (1)  A notice shall be sent by first-class, registered, or
+electronic mail to the last address of the member as shown on the
+corporation's records, setting forth the expulsion and the reasons therefor.
+Such notice shall be sent at least fifteen (15) days before the proposed
+effective date of the expulsion.
 
         (2)  The member being expelled shall be given an opportunity to
 be heard, either orally or in writing, at a hearing to be held not less
