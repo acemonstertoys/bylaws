@@ -200,7 +200,7 @@ the next business day.
 SECTION 9. SPECIAL MEETINGS
 
 Special meetings of the board of directors may be called by the
-chairperson of the board, the president, the vice president, the
+chairperson of the board, the president, the
 secretary, or by any two directors, and such meetings shall be held at
 the place, within or without the State of California, designated by the
 person or persons calling the meeting, and in the absence of such
@@ -284,8 +284,7 @@ SECTION 15. CONDUCT OF MEETINGS
 Meetings of the board of directors shall be presided over by the
 chairperson of the board, or, if no such person has been so designated
 or, in his or her absence, the president of the corporation or, in his
-or her absence, by the vice president of the corporation or, in the
-absence of each of these persons, by a chairperson chosen by a majority
+or her absence, by a chairperson chosen by a majority
 of the directors present at the meeting. The secretary of the
 corporation shall act as secretary of all meetings of the board,
 provided that, in his or her absence, the presiding officer shall
@@ -400,7 +399,7 @@ SECTION 1. NUMBER OF OFFICERS
 The officers of the corporation shall be a president, a secretary, and a
 chief financial officer who shall be designated the treasurer. The
 corporation may also have, as determined by the board of directors, a
-chairperson of the board, one or more vice presidents, assistant
+chairperson of the board, assistant
 secretaries, assistant treasurers, or other officers. Any number of
 offices may be held by the same person except that neither the secretary
 nor the treasurer may serve as the president or chairperson of the
@@ -462,15 +461,8 @@ name of the corporation, execute such deeds, mortgages, bonds,
 contracts, checks, or other instruments which may from time to time be
 authorized by the board of directors.
 
-SECTION 7. DUTIES OF VICE PRESIDENT
+SECTION 7. OMITTED DUE TO AMENDMENT BY BOARD OF DIRECTORS
 
-In the absence of the president, or in the event of his or her inability
-or refusal to act, the vice president shall perform all the duties of
-the president, and when so acting shall have all the powers of, and be
-subject to all the restrictions on, the president. The vice president
-shall have other powers and perform such other duties as may be
-prescribed by law, by the articles of incorporation, or by these bylaws,
-or as may be prescribed by the board of directors.
 
 SECTION 8. DUTIES OF SECRETARY
 
@@ -1411,7 +1403,7 @@ called by members as authorized by these bylaws, the request for the
 meeting shall be submitted in writing, specifying the general nature of
 the business proposed to be transacted and shall be delivered personally
 or sent by registered mail or by electronic mail to the chairperson of
-the board, president, vice president, or secretary of the corporation.
+the board, president, or secretary of the corporation.
 The officer receiving the request shall promptly cause notice to be
 given to the members entitled to vote that a meeting will be held,
 stating the date of the meeting. The date for such meeting shall be
@@ -1541,8 +1533,7 @@ SECTION 9. CONDUCT OF MEETINGS
 
 Meetings of members shall be presided over by the chairperson of the
 board, or, if there is no chairperson, by the president of the
-corporation or, in his or her absence, by the vice president of the
-corporation or, in the absence of all of these persons, by a chairperson
+corporation or, in his or her absence, by a chairperson
 chosen by a majority of the voting members, present in person or by
 proxy. The secretary of the corporation shall act as secretary of all
 meetings of members, provided that, in his or her absence, the presiding
