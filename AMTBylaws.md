@@ -1219,9 +1219,9 @@ SECTION 3. ADMISSION OF MEMBERS
 Applicants shall be admitted to provisional membership on making application
 therefor in writing and upon^[[a]](#cmnt1)^ payment of the first monthly
 dues, as specified in the following section of this bylaw. Full membership 
-is granted after having been voted in by a quorum of members by simple majority 
-at a regular meeting no less than 30 days after having made the provisional
-membership application.
+is granted after having been voted in by a quorum of full members with current
+dues by simple majority at a regular meeting no less than 30 days after having 
+made the provisional membership application.
 
 SECTION 4. FEES, DUES, AND ASSESSMENTS
 
