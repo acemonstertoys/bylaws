@@ -1212,7 +1212,8 @@ privileges, restrictions, and conditions.
 SECTION 2. QUALIFICATIONS OF MEMBERS
 
 The qualifications for membership in this corporation are as follows:
-Any person is qualified to become a member of this corporation.
+Any person is qualified to become a member of this corporation unless
+previously expelled.
 
 SECTION 3. ADMISSION OF MEMBERS
 
