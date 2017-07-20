@@ -1238,13 +1238,12 @@ SECTION 5. NUMBER OF MEMBERS
 
 There is no limit on the number of members the corporation may admit.
 
-SECTION 6. MEMBERSHIP BOOK
+SECTION 6. MEMBERSHIP RECORD
 
-The corporation shall keep a record of membership in WordPress, containing 
-the name and address of each member. Termination of the membership of any 
-member shall be recorded by switching the membership type to "null". A
-list of all active members shall be available on the organization's website,
-viewable by all active members.
+The corporation shall keep a record of membership, containing the name and
+address of each member. Termination of the membership of any member shall
+be recorded. A list of all active members shall be available on the
+organization's website, viewable by all active members.
 
 The record of names and addresses of the members of this corporation
 shall constitute the membership list of this corporation and shall not
