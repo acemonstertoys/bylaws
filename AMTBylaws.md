@@ -1202,7 +1202,8 @@ MEMBERS
 
 SECTION 1. DETERMINATION AND RIGHTS OF MEMBERS
 
-The corporation shall have only one class of members. No member shall
+The corporation shall have two classes of members. These classes will be 
+known as full members and provisional members. No member shall
 hold more than one membership in the corporation. Except as expressly
 provided in or authorized by the articles of incorporation or bylaws of
 this corporation, all memberships shall have the same rights,
@@ -1215,18 +1216,19 @@ Any person is qualified to become a member of this corporation.
 
 SECTION 3. ADMISSION OF MEMBERS
 
-Applicants shall be admitted to membership on making application
-therefor in writing and upon^[[a]](#cmnt1)^ payment of the first annual
-dues, as specified in the following section of this bylaw, and after
-having been voted in by a quorum of members by simple majority at a
-regular meeting no less than 30 days after having made application.
+Applicants shall be admitted to provisional membership on making application
+therefor in writing and upon^[[a]](#cmnt1)^ payment of the first monthly
+dues, as specified in the following section of this bylaw. Full membership 
+is granted after having been voted in by a quorum of members by simple majority 
+at a regular meeting no less than 30 days after having made the provisional
+membership application.
 
 SECTION 4. FEES, DUES, AND ASSESSMENTS
 
 ​(a)  No fee shall be charged for making application for membership in
 the corporation.
 
-​(b)  The annual dues payable to the corporation by members shall be in
+​(b)  The monthly dues payable to the corporation by members shall be in
 such amount as may be determined from time to time by resolution of the
 board of directors.
 
@@ -1238,12 +1240,11 @@ There is no limit on the number of members the corporation may admit.
 
 SECTION 6. MEMBERSHIP BOOK
 
-The corporation shall keep a membership book containing the name and
-address of each member. Termination of the membership of any member
-shall be recorded in the book, together with the date of termination of
-such membership. Such book shall be kept at the corporation's principal
-office and shall be available for inspection by any director or member
-of the corporation during regular business hours.
+The corporation shall keep a record of membership in WordPress, containing 
+the name and address of each member. Termination of the membership of any 
+member shall be recorded by switching the membership type to "null". A
+list of all active members shall be available on the organization's website,
+viewable by all active members.
 
 The record of names and addresses of the members of this corporation
 shall constitute the membership list of this corporation and shall not
@@ -1276,12 +1277,8 @@ the interests or purposes of the corporation.
 
         (3)  If this corporation has provided for the payment of dues by
 members, upon a failure to renew his or her membership by paying dues on
-or before their due date, such termination to be effective thirty (30)
-days after a written notification of delinquency is given personally or
-by physical or electronic mail to such member by the secretary of the
-corporation. A member may avoid such termination by paying the amount
-of delinquent dues within a thirty - (30) day period following the member's
-receipt of the written notification of delinquency.
+or before the first of the month, such termination to be effective at the 
+start of that month.
 
 ​(b)  Procedure for Expulsion. Following the determination that a member
 should be expelled under subparagraph (a)(2) of this section, the
@@ -1290,10 +1287,16 @@ following procedure shall be implemented:
         (1)  A notice shall be sent by first-class, registered, or
 electronic mail to the last address of the member as shown on the
 corporation's records, setting forth the expulsion and the reasons therefor.
-Such notice shall be sent at least fifteen (15) days before the proposed
-effective date of the expulsion.
+For a full member, such notice shall be sent at least fifteen (15) days 
+before the proposed effective date of the expulsion.
 
-        (2)  The member being expelled shall be given an opportunity to
+
+        (2)  If this corporation has provided for the payment of dues by
+members, any person expelled from the corporation shall receive a refund
+of dues already paid. The refund shall be prorated to return only the
+unaccrued balance remaining for the period of the dues payment.
+
+        (3)  The member being expelled, if a full member, shall be given an opportunity to
 be heard, either orally or in writing, at a hearing to be held not less
 than five (5) days before the effective date of the proposed expulsion.
 The hearing will be held by the board of directors in accordance with
@@ -1302,14 +1305,10 @@ meetings of the board. The notice to the member of his or her proposed
 expulsion shall state the date, time, and place of the hearing on his or
 her proposed expulsion.
 
-        (3)  Following the hearing, the board of directors shall decide
-whether or not the member should in fact be expelled, suspended, or
+        (4)  Following the hearing, the board of directors shall decide
+whether or not the full member should in fact be expelled, suspended, or
 sanctioned in some other way. The decision of the board shall be final.
 
-        (4)  If this corporation has provided for the payment of dues by
-members, any person expelled from the corporation shall receive a refund
-of dues already paid. The refund shall be prorated to return only the
-unaccrued balance remaining for the period of the dues payment.
 
 SECTION 10. RIGHTS ON TERMINATION OF MEMBERSHIP
 
