@@ -192,10 +192,8 @@ by directors and not by persons who are not directors.
 
 SECTION 8. REGULAR AND ANNUAL MEETINGS
 
-Regular meetings of directors shall be held on the third Thursday of the
-month at 8:00 PM, unless such day falls on a legal holiday, in which
-event the regular meeting shall be held at the same hour and place on
-the next business day.
+Regular meetings of directors shall be held at the same date and time every 
+month, unless prior agreement is made to move the meeting time.
 
 SECTION 9. SPECIAL MEETINGS
 
@@ -288,7 +286,9 @@ or her absence, by a chairperson chosen by a majority
 of the directors present at the meeting. The secretary of the
 corporation shall act as secretary of all meetings of the board,
 provided that, in his or her absence, the presiding officer shall
-appoint another person to act as secretary of the meeting.
+appoint another person to act as secretary of the meeting or, in his
+or her absence, by a person chosen by a majority of the directors 
+present at the meeting.
 
 Meetings shall be governed by Simplified Robert’s Rules of Orders, as
 such rules may be revised from time to time, insofar as such rules are
@@ -399,11 +399,10 @@ SECTION 1. NUMBER OF OFFICERS
 The officers of the corporation shall be a president, a secretary, and a
 chief financial officer who shall be designated the treasurer. The
 corporation may also have, as determined by the board of directors, a
-chairperson of the board, assistant
-secretaries, assistant treasurers, or other officers. Any number of
-offices may be held by the same person except that neither the secretary
-nor the treasurer may serve as the president or chairperson of the
-board.
+chairperson of the board, assistant secretaries, assistant treasurers, 
+or other officers. Any number of offices may be held by the same person 
+except that neither the secretary nor the treasurer may serve as the 
+president or chairperson of the board.
 
 SECTION 2. QUALIFICATION, ELECTION, AND TERM OF OFFICE
 
@@ -499,16 +498,9 @@ that the seal is affixed to all duly executed documents, the execution
 of which on behalf of the corporation under its seal is authorized by
 law or these bylaws.
 
-Keep at the principal office of the corporation a membership book
-containing the name and address of each and any member, and, in the case
-where any membership has been terminated, the secretary shall record
-such fact in the membership book together with the date on which such
-membership ceased.
-
 Exhibit at all reasonable times to any director of the corporation, or
-to his or her agent or attorney, on request therefor, the bylaws, the
-membership book, and the minutes of the proceedings of the directors of
-the corporation.
+to his or her agent or attorney, on request therefor, the bylaws, and 
+the minutes of the proceedings of the directors of the corporation.
 
 In general, perform all duties incident to the office of secretary and
 such other duties as may be required by law, by the articles of
@@ -688,9 +680,9 @@ and the proceedings thereof;
 accounts of its properties and business transactions and accounts of its
 assets, liabilities, receipts, disbursements, gains, and losses;
 
-​(c)  A record of its members, if any, indicating their names and
-addresses and, if applicable, the class of membership held by each
-member and the termination date of any membership;
+​(c)  A record of its members, if any, indicating their names and, if 
+applicable, the class of membership held by each member and the 
+status of membership;
 
 ​(d)  A copy of the corporation's articles of incorporation and bylaws
 as amended to date, which shall be open to inspection by the members, if
@@ -715,21 +707,20 @@ If this corporation has any members, then each and every member shall
 have the following inspection rights, for a purpose reasonably related
 to such person's interest as a member:
 
-​(a)  To inspect and copy the record of all members' names, addresses,
-and voting rights, at reasonable times, upon five (5) business days'
-prior written demand on the corporation, which demand shall state the
-purpose for which the inspection rights are requested.
+​(a)  To inspect and copy the record of all members' names and voting 
+rights, at reasonable times, upon five (5) business days' prior written 
+demand on the corporation, which demand shall state the purpose for which 
+the inspection rights are requested.
 
 ​(b)  To obtain from the secretary of the corporation, upon written
 demand and payment of a reasonable charge, an alphabetized list of the
-names, addresses, and voting rights of those members entitled to vote
-for the election of directors as of the most recent record date for
-which the list has been compiled or as of the date specified by the
-member subsequent to the date of demand. The demand shall state the
-purpose for which the list is requested. The membership list shall be
-made available on or before the later of ten (10) business days after
-the demand is received or after the date specified therein as of which
-the list is to be compiled.
+names and voting rights of those members entitled to vote for the election 
+of directors as of the most recent record date for which the list has been 
+compiled or as of the date specified by the member subsequent to the date 
+of demand. The demand shall state the purpose for which the list is requested. 
+The membership list shall be made available on or before the later of ten (10) 
+business days after the demand is received or after the date specified therein 
+as of which the list is to be compiled.
 
 ​(c)  To inspect at any reasonable time the books, records, or minutes
 of proceedings of the members or of the board or committees of the
@@ -1221,8 +1212,10 @@ Applicants shall be admitted to provisional membership on making application
 therefor in writing and upon^[[a]](#cmnt1)^ payment of the first monthly
 dues, as specified in the following section of this bylaw. Full membership 
 is granted after having been voted in by a quorum of full members with current
-dues by simple majority at a regular meeting no less than 30 days after having 
-made the provisional membership application.
+dues by simple majority vote no less than 30 days after having made the 
+provisional membership application. Any applicant who previously held full
+membership and whose membership was terminated upon failure to renew may be
+admitted as a full member without vote.
 
 SECTION 4. FEES, DUES, AND ASSESSMENTS
 
@@ -1290,7 +1283,6 @@ corporation's records, setting forth the expulsion and the reasons therefor.
 For a full member, such notice shall be sent at least fifteen (15) days 
 before the proposed effective date of the expulsion.
 
-
         (2)  If this corporation has provided for the payment of dues by
 members, any person expelled from the corporation shall receive a refund
 of dues already paid. The refund shall be prorated to return only the
@@ -1336,23 +1328,7 @@ the board of directors.
 
 SECTION 2. ANNUAL AND OTHER REGULAR MEETINGS
 
-The members shall meet annually on the third Thursday of June in each
-year, at 7:30 PM, for the purpose of electing directors and transacting
-other business as may come before the meeting. Cumulative voting for the
-election of directors shall not be permitted. The candidates receiving
-the highest number of votes up to the number of directors to be elected
-shall be elected. Each voting member shall cast one vote, with voting
-being by ballot only. The annual meeting of members for the purpose of
-electing directors shall be deemed a regular meeting and any reference
-in these bylaws to regular meetings of members refers to this annual
-meeting.
-
-Other regular meetings of the members shall be held on the first
-Thursday of September, December, March, and June, at 7:30 PM.
-
-If the day fixed for the annual meeting or other regular meetings falls
-on a legal holiday, such meeting shall be held at the same hour and
-place on the next business day.
+Regular meetings of the members shall be held on Thursdays semi-monthly.
 
 SECTION 3. SPECIAL MEETINGS OF MEMBERS
 
@@ -1360,7 +1336,7 @@ SECTION 3. SPECIAL MEETINGS OF MEMBERS
 of the members shall be called by the board of directors, the
 chairperson of the board, or the president of the corporation. In
 addition, special meetings of the members for any lawful purpose may be
-called by five percent (5%) or more of the members.
+called by five percent (5%) or more of full members.
 
 SECTION 4. NOTICE OF MEETINGS
 
@@ -1488,8 +1464,8 @@ number.
 
 SECTION 7. VOTING RIGHTS
 
-Each member is entitled to one vote on each matter submitted to a vote
-by the members. Voting at duly held meetings shall be by voice vote.
+Each full member is entitled to one vote on each matter submitted to a 
+vote by the members. Voting at duly held meetings shall be by voice vote.
 Election of directors, however, shall be by ballot.
 
 SECTION 8. PROXY VOTING
@@ -1611,13 +1587,13 @@ related to the election, unless the corporation within five (5) business
 days after the request allows the nominee, at the corporation's option,
 the right to do either of the following:
 
-​1.  inspect and copy the record of all members' names, addresses, and
+​1.  inspect and copy the record of all members' names and
 voting rights, at reasonable times, upon five (5) business days' prior
 written demand upon the corporation, which demand shall state the
 purpose for which the inspection rights are requested; or
 
 ​2.  obtain from the secretary, upon written demand and payment of a
-reasonable charge, a list of the names, addresses, and voting rights of
+reasonable charge, a list of the names and voting rights of
 those members entitled to vote for the election of directors, as of the
 most recent record date for which it has been compiled or as of any date
 specified by the nominee subsequent to the date of demand.
@@ -1678,19 +1654,19 @@ the bylaws of this corporation.
 Dated: \_\_\_\_\_\_\_\_\_\_
 
         \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-        Louis Albert Billings, Director
+        Pierre Grandin, Director
 
         \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-        Christian Fernandez, Director
+        Mark Johnsen, Director
 
         \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-        Allen Shannon Lee, Director
+        Jacob La Bay, Director
 
         \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-        Michael Gittelsohn, Director
+        Chris O’Sullivan, Director
 
         \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-        Jason Spence, Director
+        Nicole Scherm, Director
 
 CERTIFICATE
 
