@@ -498,6 +498,12 @@ that the seal is affixed to all duly executed documents, the execution
 of which on behalf of the corporation under its seal is authorized by
 law or these bylaws.
 
+Keep at the principal office of the corporation a membership book
+containing the name and address of each and any member, and, in the case
+where any membership has been terminated, the secretary shall record
+such fact in the membership book together with the date on which such
+membership ceased.
+
 Exhibit at all reasonable times to any director of the corporation, or
 to his or her agent or attorney, on request therefor, the bylaws, and 
 the minutes of the proceedings of the directors of the corporation.
