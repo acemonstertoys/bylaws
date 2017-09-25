@@ -505,8 +505,9 @@ such fact in the membership book together with the date on which such
 membership ceased.
 
 Exhibit at all reasonable times to any director of the corporation, or
-to his or her agent or attorney, on request therefor, the bylaws, and 
-the minutes of the proceedings of the directors of the corporation.
+to his or her agent or attorney, on request therefor, the bylaws, the 
+membership book, and the minutes of the proceedings of the directors of
+the corporation.
 
 In general, perform all duties incident to the office of secretary and
 such other duties as may be required by law, by the articles of
@@ -686,9 +687,9 @@ and the proceedings thereof;
 accounts of its properties and business transactions and accounts of its
 assets, liabilities, receipts, disbursements, gains, and losses;
 
-​(c)  A record of its members, if any, indicating their names and, if 
-applicable, the class of membership held by each member and the 
-status of membership;
+​(c)  A record of its members, if any, indicating their names and
+addresses and, if applicable, the class of membership held by each
+member and the termination date of any membership;
 
 ​(d)  A copy of the corporation's articles of incorporation and bylaws
 as amended to date, which shall be open to inspection by the members, if
@@ -1199,8 +1200,7 @@ MEMBERS
 
 SECTION 1. DETERMINATION AND RIGHTS OF MEMBERS
 
-The corporation shall have two classes of members. These classes will be 
-known as full members and provisional members. No member shall
+The corporation shall have one class of members. No member shall
 hold more than one membership in the corporation. Except as expressly
 provided in or authorized by the articles of incorporation or bylaws of
 this corporation, all memberships shall have the same rights,
@@ -1214,25 +1214,24 @@ previously expelled.
 
 SECTION 3. ADMISSION OF MEMBERS
 
-Applicants shall be admitted to provisional membership on making application
+Applicants shall be classified as member applicants on making application
 therefor in writing and upon^[[a]](#cmnt1)^ payment of the first monthly
-dues, as specified in the following section of this bylaw. Full membership is
+dues, as specified in the following section of this bylaw. Membership is
 granted after having been voted in by a quorum of members from the membership
 admission committee for applicants with current dues by simple majority vote
-no less than 30 days after having made the provisional membership application.
-The membership admission committee is composed of volunteers appointed by
-the board Any applicant who previously held full membership and whose
-membership was terminated upon failure to renew may be admitted as a full
-member without vote.
+no less than 30 days after having made the membership application. The membership 
+admission committee is composed of volunteers appointed by the board. Any 
+applicant who previously held membership and whose membership was terminated upon 
+failure to renew may be admitted as a member without vote.
 
 SECTION 4. FEES, DUES, AND ASSESSMENTS
 
 ​(a)  No fee shall be charged for making application for membership in
 the corporation.
 
-​(b)  The monthly dues payable to the corporation by members shall be in
-such amount as may be determined from time to time by resolution of the
-board of directors.
+​(b)  The monthly dues payable to the corporation by members and member 
+applicants shall be in such amount as may be determined from time to time 
+by resolution of the board of directors.
 
 ​(c)  Memberships shall be nonassessable.
 
@@ -1243,9 +1242,11 @@ There is no limit on the number of members the corporation may admit.
 SECTION 6. MEMBERSHIP RECORD
 
 The corporation shall keep a record of membership, containing the name and
-address of each member. Termination of the membership of any member shall
-be recorded. A list of all active members shall be available on the
-organization's website, viewable by all active members.
+address of each member and member applicant. Termination of the membership 
+of any member and termination of application for member applicants shall
+be recorded. A list of all active members and active member applicants shall 
+be available on the organization's website, viewable by all active members
+and member applicants.
 
 The record of names and addresses of the members of this corporation
 shall constitute the membership list of this corporation and shall not
@@ -1254,41 +1255,44 @@ related to a member's interest as a member.
 
 SECTION 7. NONLIABILITY OF MEMBERS
 
-A member of this corporation is not, as such, personally liable for the
-debts, liabilities, or obligations of the corporation.
+A member or member applicant of this corporation is not, as such, personally 
+liable for the debts, liabilities, or obligations of the corporation.
 
 SECTION 8. NONTRANSFERABILITY OF MEMBERSHIPS
 
 No member may transfer a membership or any right arising therefrom. All
-rights of membership cease upon the member's death.
+rights of membership cease upon the member's death. No member applicant
+may transfer an application or any right arising therefrom. All rights of 
+the member applicant cease upon the member's death.
 
 SECTION 9. TERMINATION OF MEMBERSHIP
 
-​(a)  Grounds for Termination. The membership of a member shall
-terminate upon the occurrence of any of the following events:
+​(a)  Grounds for Termination. The membership of a member or application
+of an applicant shall terminate upon the occurrence of any of the following 
+events:
 
         (1)  Upon his or her notice of such termination delivered to the
 president or secretary of the corporation personally or by electronic 
-or physical mail, such membership to terminate upon the date of delivery
-of the notice or date of deposit in the mail.
+or physical mail, such membership or applicantion to terminate upon the date 
+of delivery of the notice or date of deposit in the mail.
 
         (2)  Upon a determination by the board of directors that the
-member has engaged in conduct materially and seriously prejudicial to
-the interests or purposes of the corporation.
+member or member applicant has engaged in conduct materially and seriously 
+prejudicial to the interests or purposes of the corporation.
 
         (3)  If this corporation has provided for the payment of dues by
-members, upon a failure to renew his or her membership by paying dues on
-or before the first of the month, such termination to be effective at the 
-start of that month.
+members or member applicants, upon a failure to renew his or her membership 
+or application by paying dues on or before the first of the month, such termination 
+to be effective at the start of that month.
 
 ​(b)  Procedure for Expulsion. Following the determination that a member
 should be expelled under subparagraph (a)(2) of this section, the
 following procedure shall be implemented:
 
         (1)  A notice shall be sent by first-class, registered, or
-electronic mail to the last address of the member as shown on the
-corporation's records, setting forth the expulsion and the reasons therefor.
-For a full member, such notice shall be sent at least fifteen (15) days 
+electronic mail to the last address of the member or member applicant as shown 
+on the corporation's records, setting forth the expulsion and the reasons 
+therefor. For a member, such notice shall be sent at least fifteen (15) days 
 before the proposed effective date of the expulsion.
 
         (2)  If this corporation has provided for the payment of dues by
@@ -1296,7 +1300,7 @@ members, any person expelled from the corporation shall receive a refund
 of dues already paid. The refund shall be prorated to return only the
 unaccrued balance remaining for the period of the dues payment.
 
-        (3)  The member being expelled, if a full member, shall be given an opportunity to
+        (3)  Any member being expelled shall be given an opportunity to
 be heard, either orally or in writing, at a hearing to be held not less
 than five (5) days before the effective date of the proposed expulsion.
 The hearing will be held by the board of directors in accordance with
@@ -1306,14 +1310,14 @@ expulsion shall state the date, time, and place of the hearing on his or
 her proposed expulsion.
 
         (4)  Following the hearing, the board of directors shall decide
-whether or not the full member should in fact be expelled, suspended, or
+whether or not the member should in fact be expelled, suspended, or
 sanctioned in some other way. The decision of the board shall be final.
 
 
 SECTION 10. RIGHTS ON TERMINATION OF MEMBERSHIP
 
-All rights of a member in the corporation shall cease on termination of
-membership as herein provided.
+All rights of a member or member applicant in the corporation shall cease 
+on termination of membership or application as herein provided.
 
 SECTION 11. AMENDMENTS RESULTING IN THE TERMINATION OF MEMBERSHIPS
 
@@ -1344,7 +1348,7 @@ SECTION 3. SPECIAL MEETINGS OF MEMBERS
 of the members shall be called by the board of directors, the
 chairperson of the board, or the president of the corporation. In
 addition, special meetings of the members for any lawful purpose may be
-called by five percent (5%) or more of full members.
+called by five percent (5%) or more of the members.
 
 SECTION 4. NOTICE OF MEETINGS
 
@@ -1472,8 +1476,8 @@ number.
 
 SECTION 7. VOTING RIGHTS
 
-Each full member is entitled to one vote on each matter submitted to a 
-vote by the members. Voting at duly held meetings shall be by voice vote.
+Each member is entitled to one vote on each matter submitted to a vote
+by the members. Voting at duly held meetings shall be by voice vote.
 Election of directors, however, shall be by ballot.
 
 SECTION 8. PROXY VOTING
