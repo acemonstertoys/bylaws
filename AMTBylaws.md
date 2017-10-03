@@ -1214,15 +1214,14 @@ previously expelled.
 
 SECTION 3. ADMISSION OF MEMBERS
 
-Applicants shall be classified as member applicants on making application
-therefor in writing and upon^[[a]](#cmnt1)^ payment of the first monthly
-dues, as specified in the following section of this bylaw. Membership is
-granted after having been voted in by a quorum of members from the membership
+Applicants shall be classified as member applicants (known as provisional members)
+on making application therefor in writing and upon^[[a]](#cmnt1)^ payment of the 
+first monthly dues, as specified in the following section of this bylaw. Membership 
+is granted after having been voted in by a quorum of members from the membership
 admission committee for applicants with current dues by simple majority vote
 no less than 30 days after having made the membership application. The membership 
-admission committee is composed of volunteers appointed by the board. Any 
-applicant who previously held membership and whose membership was terminated upon 
-failure to renew may be admitted as a member without vote.
+admission committee is composed of volunteers appointed by the board. Membership
+applications may be rejected at discretion of the corporation.
 
 SECTION 4. FEES, DUES, AND ASSESSMENTS
 
@@ -1267,9 +1266,8 @@ the member applicant cease upon the member's death.
 
 SECTION 9. TERMINATION OF MEMBERSHIP
 
-​(a)  Grounds for Termination. The membership of a member or application
-of an applicant shall terminate upon the occurrence of any of the following 
-events:
+​(a)  Grounds for Termination. The membership of a member shall terminate 
+upon the occurrence of any of the following events:
 
         (1)  Upon his or her notice of such termination delivered to the
 president or secretary of the corporation personally or by electronic 
@@ -1277,12 +1275,12 @@ or physical mail, such membership or applicantion to terminate upon the date
 of delivery of the notice or date of deposit in the mail.
 
         (2)  Upon a determination by the board of directors that the
-member or member applicant has engaged in conduct materially and seriously 
-prejudicial to the interests or purposes of the corporation.
+member has engaged in conduct materially and seriously prejudicial to 
+the interests or purposes of the corporation.
 
         (3)  If this corporation has provided for the payment of dues by
 members or member applicants, upon a failure to renew his or her membership 
-or application by paying dues on or before the first of the month, such termination 
+by paying dues on or before the first of the month, such termination 
 to be effective at the start of that month.
 
 ​(b)  Procedure for Expulsion. Following the determination that a member
@@ -1290,13 +1288,13 @@ should be expelled under subparagraph (a)(2) of this section, the
 following procedure shall be implemented:
 
         (1)  A notice shall be sent by first-class, registered, or
-electronic mail to the last address of the member or member applicant as shown 
-on the corporation's records, setting forth the expulsion and the reasons 
-therefor. For a member, such notice shall be sent at least fifteen (15) days 
-before the proposed effective date of the expulsion.
+electronic mail to the last address of the member as shown on the corporation's 
+records, setting forth the expulsion and the reasons therefor. Such notice 
+shall be sent at least fifteen (15) days before the proposed effective 
+date of the expulsion.
 
         (2)  If this corporation has provided for the payment of dues by
-members, any person expelled from the corporation shall receive a refund
+members, any member expelled from the corporation shall receive a refund
 of dues already paid. The refund shall be prorated to return only the
 unaccrued balance remaining for the period of the dues payment.
 
