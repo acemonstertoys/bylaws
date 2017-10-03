@@ -192,10 +192,8 @@ by directors and not by persons who are not directors.
 
 SECTION 8. REGULAR AND ANNUAL MEETINGS
 
-Regular meetings of directors shall be held on the third Thursday of the
-month at 8:00 PM, unless such day falls on a legal holiday, in which
-event the regular meeting shall be held at the same hour and place on
-the next business day.
+Regular meetings of directors shall be held at the same date and time every 
+month, unless prior agreement is made to move the meeting time.
 
 SECTION 9. SPECIAL MEETINGS
 
@@ -288,7 +286,9 @@ or her absence, by a chairperson chosen by a majority
 of the directors present at the meeting. The secretary of the
 corporation shall act as secretary of all meetings of the board,
 provided that, in his or her absence, the presiding officer shall
-appoint another person to act as secretary of the meeting.
+appoint another person to act as secretary of the meeting or, in his
+or her absence, by a person chosen by a majority of the directors 
+present at the meeting.
 
 Meetings shall be governed by Simplified Robert’s Rules of Orders, as
 such rules may be revised from time to time, insofar as such rules are
@@ -399,11 +399,10 @@ SECTION 1. NUMBER OF OFFICERS
 The officers of the corporation shall be a president, a secretary, and a
 chief financial officer who shall be designated the treasurer. The
 corporation may also have, as determined by the board of directors, a
-chairperson of the board, assistant
-secretaries, assistant treasurers, or other officers. Any number of
-offices may be held by the same person except that neither the secretary
-nor the treasurer may serve as the president or chairperson of the
-board.
+chairperson of the board, assistant secretaries, assistant treasurers, 
+or other officers. Any number of offices may be held by the same person 
+except that neither the secretary nor the treasurer may serve as the 
+president or chairperson of the board.
 
 SECTION 2. QUALIFICATION, ELECTION, AND TERM OF OFFICE
 
@@ -506,7 +505,7 @@ such fact in the membership book together with the date on which such
 membership ceased.
 
 Exhibit at all reasonable times to any director of the corporation, or
-to his or her agent or attorney, on request therefor, the bylaws, the
+to his or her agent or attorney, on request therefor, the bylaws, the 
 membership book, and the minutes of the proceedings of the directors of
 the corporation.
 
@@ -688,7 +687,7 @@ and the proceedings thereof;
 accounts of its properties and business transactions and accounts of its
 assets, liabilities, receipts, disbursements, gains, and losses;
 
-​(c)  A record of its members, if any, indicating their names and
+​(c)  A record of its members, if any, indicating their names and
 addresses and, if applicable, the class of membership held by each
 member and the termination date of any membership;
 
@@ -715,21 +714,20 @@ If this corporation has any members, then each and every member shall
 have the following inspection rights, for a purpose reasonably related
 to such person's interest as a member:
 
-​(a)  To inspect and copy the record of all members' names, addresses,
-and voting rights, at reasonable times, upon five (5) business days'
-prior written demand on the corporation, which demand shall state the
-purpose for which the inspection rights are requested.
+​(a)  To inspect and copy the record of all members' names and voting 
+rights, at reasonable times, upon five (5) business days' prior written 
+demand on the corporation, which demand shall state the purpose for which 
+the inspection rights are requested.
 
 ​(b)  To obtain from the secretary of the corporation, upon written
 demand and payment of a reasonable charge, an alphabetized list of the
-names, addresses, and voting rights of those members entitled to vote
-for the election of directors as of the most recent record date for
-which the list has been compiled or as of the date specified by the
-member subsequent to the date of demand. The demand shall state the
-purpose for which the list is requested. The membership list shall be
-made available on or before the later of ten (10) business days after
-the demand is received or after the date specified therein as of which
-the list is to be compiled.
+names and voting rights of those members entitled to vote for the election 
+of directors as of the most recent record date for which the list has been 
+compiled or as of the date specified by the member subsequent to the date 
+of demand. The demand shall state the purpose for which the list is requested. 
+The membership list shall be made available on or before the later of ten (10) 
+business days after the demand is received or after the date specified therein 
+as of which the list is to be compiled.
 
 ​(c)  To inspect at any reasonable time the books, records, or minutes
 of proceedings of the members or of the board or committees of the
@@ -1202,7 +1200,7 @@ MEMBERS
 
 SECTION 1. DETERMINATION AND RIGHTS OF MEMBERS
 
-The corporation shall have only one class of members. No member shall
+The corporation shall have one class of members. No member shall
 hold more than one membership in the corporation. Except as expressly
 provided in or authorized by the articles of incorporation or bylaws of
 this corporation, all memberships shall have the same rights,
@@ -1211,24 +1209,28 @@ privileges, restrictions, and conditions.
 SECTION 2. QUALIFICATIONS OF MEMBERS
 
 The qualifications for membership in this corporation are as follows:
-Any person is qualified to become a member of this corporation.
+Any person is qualified to become a member of this corporation unless
+previously expelled.
 
 SECTION 3. ADMISSION OF MEMBERS
 
-Applicants shall be admitted to membership on making application
-therefor in writing and upon^[[a]](#cmnt1)^ payment of the first annual
-dues, as specified in the following section of this bylaw, and after
-having been voted in by a quorum of members by simple majority at a
-regular meeting no less than 30 days after having made application.
+Applicants shall be classified as member applicants (known as provisional members)
+on making application therefor in writing and upon^[[a]](#cmnt1)^ payment of the 
+first monthly dues, as specified in the following section of this bylaw. Membership 
+is granted after having been voted in by a quorum of members from the membership
+admission committee for applicants with current dues by simple majority vote
+no less than 30 days after having made the membership application. The membership 
+admission committee is composed of volunteers appointed by the board. Membership
+applications may be rejected at discretion of the corporation.
 
 SECTION 4. FEES, DUES, AND ASSESSMENTS
 
 ​(a)  No fee shall be charged for making application for membership in
 the corporation.
 
-​(b)  The annual dues payable to the corporation by members shall be in
-such amount as may be determined from time to time by resolution of the
-board of directors.
+​(b)  The monthly dues payable to the corporation by members and member 
+applicants shall be in such amount as may be determined from time to time 
+by resolution of the board of directors.
 
 ​(c)  Memberships shall be nonassessable.
 
@@ -1236,14 +1238,14 @@ SECTION 5. NUMBER OF MEMBERS
 
 There is no limit on the number of members the corporation may admit.
 
-SECTION 6. MEMBERSHIP BOOK
+SECTION 6. MEMBERSHIP RECORD
 
-The corporation shall keep a membership book containing the name and
-address of each member. Termination of the membership of any member
-shall be recorded in the book, together with the date of termination of
-such membership. Such book shall be kept at the corporation's principal
-office and shall be available for inspection by any director or member
-of the corporation during regular business hours.
+The corporation shall keep a record of membership, containing the name and
+address of each member and member applicant. Termination of the membership 
+of any member and termination of application for member applicants shall
+be recorded. A list of all active members and active member applicants shall 
+be available on the organization's website, viewable by all active members
+and member applicants.
 
 The record of names and addresses of the members of this corporation
 shall constitute the membership list of this corporation and shall not
@@ -1252,48 +1254,51 @@ related to a member's interest as a member.
 
 SECTION 7. NONLIABILITY OF MEMBERS
 
-A member of this corporation is not, as such, personally liable for the
-debts, liabilities, or obligations of the corporation.
+A member or member applicant of this corporation is not, as such, personally 
+liable for the debts, liabilities, or obligations of the corporation.
 
 SECTION 8. NONTRANSFERABILITY OF MEMBERSHIPS
 
 No member may transfer a membership or any right arising therefrom. All
-rights of membership cease upon the member's death.
+rights of membership cease upon the member's death. No member applicant
+may transfer an application or any right arising therefrom. All rights of 
+the member applicant cease upon the member's death.
 
 SECTION 9. TERMINATION OF MEMBERSHIP
 
-​(a)  Grounds for Termination. The membership of a member shall
-terminate upon the occurrence of any of the following events:
+​(a)  Grounds for Termination. The membership of a member shall terminate 
+upon the occurrence of any of the following events:
 
         (1)  Upon his or her notice of such termination delivered to the
 president or secretary of the corporation personally or by electronic 
-or physical mail, such membership to terminate upon the date of delivery
-of the notice or date of deposit in the mail.
+or physical mail, such membership or applicantion to terminate upon the date 
+of delivery of the notice or date of deposit in the mail.
 
         (2)  Upon a determination by the board of directors that the
-member has engaged in conduct materially and seriously prejudicial to
+member has engaged in conduct materially and seriously prejudicial to 
 the interests or purposes of the corporation.
 
         (3)  If this corporation has provided for the payment of dues by
-members, upon a failure to renew his or her membership by paying dues on
-or before their due date, such termination to be effective thirty (30)
-days after a written notification of delinquency is given personally or
-by physical or electronic mail to such member by the secretary of the
-corporation. A member may avoid such termination by paying the amount
-of delinquent dues within a thirty - (30) day period following the member's
-receipt of the written notification of delinquency.
+members or member applicants, upon a failure to renew his or her membership 
+by paying dues on or before the first of the month, such termination 
+to be effective at the start of that month.
 
 ​(b)  Procedure for Expulsion. Following the determination that a member
 should be expelled under subparagraph (a)(2) of this section, the
 following procedure shall be implemented:
 
         (1)  A notice shall be sent by first-class, registered, or
-electronic mail to the last address of the member as shown on the
-corporation's records, setting forth the expulsion and the reasons therefor.
-Such notice shall be sent at least fifteen (15) days before the proposed
-effective date of the expulsion.
+electronic mail to the last address of the member as shown on the corporation's 
+records, setting forth the expulsion and the reasons therefor. Such notice 
+shall be sent at least fifteen (15) days before the proposed effective 
+date of the expulsion.
 
-        (2)  The member being expelled shall be given an opportunity to
+        (2)  If this corporation has provided for the payment of dues by
+members, any member expelled from the corporation shall receive a refund
+of dues already paid. The refund shall be prorated to return only the
+unaccrued balance remaining for the period of the dues payment.
+
+        (3)  Any member being expelled shall be given an opportunity to
 be heard, either orally or in writing, at a hearing to be held not less
 than five (5) days before the effective date of the proposed expulsion.
 The hearing will be held by the board of directors in accordance with
@@ -1302,19 +1307,15 @@ meetings of the board. The notice to the member of his or her proposed
 expulsion shall state the date, time, and place of the hearing on his or
 her proposed expulsion.
 
-        (3)  Following the hearing, the board of directors shall decide
+        (4)  Following the hearing, the board of directors shall decide
 whether or not the member should in fact be expelled, suspended, or
 sanctioned in some other way. The decision of the board shall be final.
 
-        (4)  If this corporation has provided for the payment of dues by
-members, any person expelled from the corporation shall receive a refund
-of dues already paid. The refund shall be prorated to return only the
-unaccrued balance remaining for the period of the dues payment.
 
 SECTION 10. RIGHTS ON TERMINATION OF MEMBERSHIP
 
-All rights of a member in the corporation shall cease on termination of
-membership as herein provided.
+All rights of a member or member applicant in the corporation shall cease 
+on termination of membership or application as herein provided.
 
 SECTION 11. AMENDMENTS RESULTING IN THE TERMINATION OF MEMBERSHIPS
 
@@ -1337,23 +1338,7 @@ the board of directors.
 
 SECTION 2. ANNUAL AND OTHER REGULAR MEETINGS
 
-The members shall meet annually on the third Thursday of June in each
-year, at 7:30 PM, for the purpose of electing directors and transacting
-other business as may come before the meeting. Cumulative voting for the
-election of directors shall not be permitted. The candidates receiving
-the highest number of votes up to the number of directors to be elected
-shall be elected. Each voting member shall cast one vote, with voting
-being by ballot only. The annual meeting of members for the purpose of
-electing directors shall be deemed a regular meeting and any reference
-in these bylaws to regular meetings of members refers to this annual
-meeting.
-
-Other regular meetings of the members shall be held on the first
-Thursday of September, December, March, and June, at 7:30 PM.
-
-If the day fixed for the annual meeting or other regular meetings falls
-on a legal holiday, such meeting shall be held at the same hour and
-place on the next business day.
+Regular meetings of the members shall be held on Thursdays semi-monthly.
 
 SECTION 3. SPECIAL MEETINGS OF MEMBERS
 
@@ -1612,13 +1597,13 @@ related to the election, unless the corporation within five (5) business
 days after the request allows the nominee, at the corporation's option,
 the right to do either of the following:
 
-​1.  inspect and copy the record of all members' names, addresses, and
+​1.  inspect and copy the record of all members' names and
 voting rights, at reasonable times, upon five (5) business days' prior
 written demand upon the corporation, which demand shall state the
 purpose for which the inspection rights are requested; or
 
 ​2.  obtain from the secretary, upon written demand and payment of a
-reasonable charge, a list of the names, addresses, and voting rights of
+reasonable charge, a list of the names and voting rights of
 those members entitled to vote for the election of directors, as of the
 most recent record date for which it has been compiled or as of any date
 specified by the nominee subsequent to the date of demand.
@@ -1679,19 +1664,19 @@ the bylaws of this corporation.
 Dated: \_\_\_\_\_\_\_\_\_\_
 
         \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-        Louis Albert Billings, Director
+        Pierre Grandin, Director
 
         \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-        Christian Fernandez, Director
+        Mark Johnsen, Director
 
         \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-        Allen Shannon Lee, Director
+        Jacob La Bay, Director
 
         \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-        Michael Gittelsohn, Director
+        Chris O’Sullivan, Director
 
         \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
-        Jason Spence, Director
+        Nicole Scherm, Director
 
 CERTIFICATE
 
