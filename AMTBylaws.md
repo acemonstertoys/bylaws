@@ -1216,10 +1216,10 @@ Any person is qualified to become a member of this corporation.
 SECTION 3. ADMISSION OF MEMBERS
 
 Applicants shall be admitted to membership on making application
-therefor in writing and upon^[[a]](#cmnt1)^ payment of the first annual
+therefor in writing and upon^[[a]](#cmnt1)^ payment of the second monthly
 dues, as specified in the following section of this bylaw, and after
-having been voted in by a quorum of members by simple majority at a
-regular meeting no less than 30 days after having made application.
+having been voted in by a quorum of directors by simple majority at a
+regular board meeting no more than 45 days after having made application.
 
 SECTION 4. FEES, DUES, AND ASSESSMENTS
 
@@ -1711,7 +1711,7 @@ Modifications
     meetings (both general and board). Changed “Doctor Jesus” to his
     legal name of “Jason Spence” -- Robert Trencheny, Secretary
 
-[[a]](#cmnt_ref1)Per August 21 2012 board amendment. —sms.atom.bomb
+[[a]](#cmnt_ref1)Per April 02 2018 board amendment. —pierre
 
 [[b]](#cmnt_ref2)Per January 10 2012 board amendment, quorum is now 25%
 instead of 34% —sms.atom.bomb
