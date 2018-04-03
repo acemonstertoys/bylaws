@@ -1216,7 +1216,7 @@ Any person is qualified to become a member of this corporation.
 SECTION 3. ADMISSION OF MEMBERS
 
 Applicants shall be admitted to membership on making application
-therefor in writing and upon^[[a]](#cmnt1)^ payment of the second monthly
+therefor in writing and upon^[[a]](#cmnt1)^ payment of the fourth monthly
 dues, as specified in the following section of this bylaw, and after
 having been voted in by a quorum of directors by simple majority at a
 regular board meeting no more than 45 days after having made application.
