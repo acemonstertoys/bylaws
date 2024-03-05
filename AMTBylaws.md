@@ -122,7 +122,7 @@ SECTION 4. TERMS OF OFFICE
 
 Each director shall hold office until the next annual meeting for
 election of the board of directors as specified in these bylaws, and
-until his or her successor is elected and qualifies.
+until his, her or their successor is elected and qualifies.
 
 SECTION 5. COMPENSATION
 
@@ -213,7 +213,7 @@ meetings of the board shall be held upon four (4) days' notice by
 first-class mail or forty-eight (48) hours' notice delivered personally
 or by telephone or electronic mail. If sent by mail, the notice shall be
 deemed to be delivered on its deposit in the mails. Such notices shall
-be addressed to each director at his or her address as shown on the
+be addressed to each director at his, her or their address as shown on the
 books of the corporation. Notice of the time and place of holding an
 adjourned meeting need not be given to absent directors if the time and
 place of the adjourned meeting are fixed at the meeting adjourned and if
@@ -283,11 +283,11 @@ SECTION 15. CONDUCT OF MEETINGS
 
 Meetings of the board of directors shall be presided over by the
 chairperson of the board, or, if no such person has been so designated
-or, in his or her absence, the president of the corporation or, in his
-or her absence, by a chairperson chosen by a majority
+or, in his, her or their absence, the president of the corporation or, in his,
+her or their absence, by a chairperson chosen by a majority
 of the directors present at the meeting. The secretary of the
 corporation shall act as secretary of all meetings of the board,
-provided that, in his or her absence, the presiding officer shall
+provided that, in his, her or their absence, the presiding officer shall
 appoint another person to act as secretary of the meeting.
 
 Meetings shall be governed by Simplified Robert’s Rules of Orders, as
@@ -351,7 +351,7 @@ any time to fill any vacancy not filled by the directors.
 
 A person elected to fill a vacancy as provided by this Section shall
 hold office until the next annual election of the board of directors or
-until his or her death, resignation, or removal from office.
+until his, her or their death, resignation, or removal from office.
 
 SECTION 18. NONLIABILITY OF DIRECTORS
 
@@ -365,14 +365,14 @@ To the extent that a person who is, or was, a director, officer,
 employee, or other agent of this corporation has been successful on the
 merits in defense of any civil, criminal, administrative, or
 investigative proceeding brought to procure a judgment against such
-person by reason of the fact that he or she is, or was, an agent of the
+person by reason of the fact that he, she or they is, or was, an agent of the
 corporation, or has been successful in defense of any claim, issue, or
 matter, therein, such person shall be indemnified against expenses
 actually and reasonably incurred by the person in connection with such
 proceeding.
 
 If such person either settles any such claim or sustains a judgment
-against him or her, then indemnification against expenses, judgments,
+against him, her or them, then indemnification against expenses, judgments,
 fines, settlements, and other amounts reasonably incurred in connection
 with such proceedings shall be provided by this corporation but only to
 the extent allowed by, and in accordance with the requirements of,
@@ -409,8 +409,8 @@ SECTION 2. QUALIFICATION, ELECTION, AND TERM OF OFFICE
 
 Any person may serve as an officer of this corporation. Officers shall
 be elected by the board of directors, at any time, and each officer
-shall hold office until he or she resigns, is removed, or is otherwise
-disqualified to serve, or until his or her successor shall be elected
+shall hold office until he, she or they resigns, is removed, or is otherwise
+disqualified to serve, or until his, her or their successor shall be elected
 and qualified, whichever occurs first.
 
 SECTION 3. SUBORDINATE OFFICERS
@@ -448,15 +448,15 @@ SECTION 6. DUTIES OF PRESIDENT
 The president shall be the chief executive officer of the corporation
 and shall, subject to the control of the board of directors, supervise
 and control the affairs of the corporation and the activities of the
-officers. He or she shall perform all duties incident to his or her
+officers. He, she or they shall perform all duties incident to his, her or their
 office and such other duties as may be required by law, by the articles
 of incorporation of this corporation, or by these bylaws, or which may
 be prescribed from time to time by the board of directors. Unless
 another person is specifically appointed as chairperson of the board of
-directors, he or she shall preside at all meetings of the board of
+directors, he, she or they shall preside at all meetings of the board of
 directors. If applicable, the president shall preside at all meetings of
 the members. Except as otherwise expressly provided by law, by the
-articles of incorporation, or by these bylaws, he or she shall, in the
+articles of incorporation, or by these bylaws, he, she or they shall, in the
 name of the corporation, execute such deeds, mortgages, bonds,
 contracts, checks, or other instruments which may from time to time be
 authorized by the board of directors.
@@ -506,14 +506,14 @@ such fact in the membership book together with the date on which such
 membership ceased.
 
 Exhibit at all reasonable times to any director of the corporation, or
-to his or her agent or attorney, on request therefor, the bylaws, the
+to his, her or their agent or attorney, on request therefor, the bylaws, the
 membership book, and the minutes of the proceedings of the directors of
 the corporation.
 
 In general, perform all duties incident to the office of secretary and
 such other duties as may be required by law, by the articles of
 incorporation of this corporation, or by these bylaws, or which may be
-assigned to him or her from time to time by the board of directors.
+assigned to him, her or them from time to time by the board of directors.
 
 SECTION 9. DUTIES OF TREASURER
 
@@ -537,11 +537,11 @@ properties and business transactions, including accounts of its assets,
 liabilities, receipts, disbursements, gains, and losses.
 
 Exhibit at all reasonable times the books of account and financial
-records to any director of the corporation, or to his or her agent or
+records to any director of the corporation, or to his, her or their agent or
 attorney, on request therefor.
 
 Render to the president and directors, whenever requested, an account of
-any or all of his or her transactions as treasurer and of the financial
+any or all of his, her or their transactions as treasurer and of the financial
 condition of the corporation.
 
 Prepare, or cause to be prepared, and certify, or cause to be certified,
@@ -550,14 +550,14 @@ the financial statements to be included in any required reports.
 In general, perform all duties incident to the office of treasurer and
 such other duties as may be required by law, by the articles of
 incorporation of the corporation, or by these bylaws, or which may be
-assigned to him or her from time to time by the board of directors.
+assigned to him, her or them from time to time by the board of directors.
 
 SECTION 10. COMPENSATION
 
 The salaries of the officers, if any, shall be fixed from time to time
 by resolution of the board of directors, and no officer shall be
-prevented from receiving such salary by reason of the fact that he or
-she is also a director of the corporation, provided, however, that such
+prevented from receiving such salary by reason of the fact that he,
+she or they is also a director of the corporation, provided, however, that such
 compensation paid a director for serving as an officer of this
 corporation shall only be allowed if permitted under the provisions of
 Article 3, Section 6, of these bylaws. In all cases, any salaries
@@ -896,7 +896,7 @@ powers considering the proposed transaction or arrangement.
 ​(b)  Determining Whether a Conflict of Interest Exists.
 
 After disclosure of the financial interest and all material facts, and
-after any discussion with the interested person, he/she shall leave the
+after any discussion with the interested person, he/she/they shall leave the
 governing board or committee meeting while the determination of a
 conflict of interest is discussed and voted upon. The remaining board or
 committee members shall decide if a conflict of interest exists.
@@ -904,7 +904,7 @@ committee members shall decide if a conflict of interest exists.
 ​(c)  Procedures for Addressing the Conflict of Interest.
 
 An interested person may make a presentation at the governing board or
-committee meeting, but after the presentation, he/she shall leave the
+committee meeting, but after the presentation, he/she/they shall leave the
 meeting during the discussion of, and the vote on, the transaction or
 arrangement involving the possible conflict of interest.
 
@@ -1265,7 +1265,7 @@ SECTION 9. TERMINATION OF MEMBERSHIP
 ​(a)  Grounds for Termination. The membership of a member shall
 terminate upon the occurrence of any of the following events:
 
-        (1)  Upon his or her notice of such termination delivered to the
+        (1)  Upon his, her or their notice of such termination delivered to the
 president or secretary of the corporation personally or by electronic 
 or physical mail, such membership to terminate upon the date of delivery
 of the notice or date of deposit in the mail.
@@ -1275,7 +1275,7 @@ member has engaged in conduct materially and seriously prejudicial to
 the interests or purposes of the corporation.
 
         (3)  If this corporation has provided for the payment of dues by
-members, upon a failure to renew his or her membership by paying dues on
+members, upon a failure to renew his, her or their membership by paying dues on
 or before their due date, such termination to be effective thirty (30)
 days after a written notification of delinquency is given personally or
 by physical or electronic mail to such member by the secretary of the
@@ -1298,9 +1298,9 @@ be heard, either orally or in writing, at a hearing to be held not less
 than five (5) days before the effective date of the proposed expulsion.
 The hearing will be held by the board of directors in accordance with
 the quorum and voting rules set forth in these bylaws applicable to the
-meetings of the board. The notice to the member of his or her proposed
-expulsion shall state the date, time, and place of the hearing on his or
-her proposed expulsion.
+meetings of the board. The notice to the member of his, her or their proposed
+expulsion shall state the date, time, and place of the hearing on his, her or
+their proposed expulsion.
 
         (3)  Following the hearing, the board of directors shall decide
 whether or not the member should in fact be expelled, suspended, or
@@ -1502,7 +1502,7 @@ voting shall be construed to permit any member to vote or act by proxy.
 
 If membership voting by proxy is allowed, members entitled to vote shall
 have the right to vote either in person or by a written proxy executed
-by such person or by his or her duly authorized agent and filed with the
+by such person or by his, her or their duly authorized agent and filed with the
 secretary of the corporation, provided, however, that no proxy shall be
 valid after eleven (11) months from the date of its execution unless
 otherwise provided in the proxy. In any case, however, the maximum term
@@ -1533,10 +1533,10 @@ SECTION 9. CONDUCT OF MEETINGS
 
 Meetings of members shall be presided over by the chairperson of the
 board, or, if there is no chairperson, by the president of the
-corporation or, in his or her absence, by a chairperson
+corporation or, in his, her or their absence, by a chairperson
 chosen by a majority of the voting members, present in person or by
 proxy. The secretary of the corporation shall act as secretary of all
-meetings of members, provided that, in his or her absence, the presiding
+meetings of members, provided that, in his, her or their absence, the presiding
 officer shall appoint another person to act as secretary of the meeting.
 
 Meetings shall be governed by Simplified Robert’s Rules of Order, as
@@ -1715,3 +1715,4 @@ Modifications
 
 [[b]](#cmnt_ref2)Per January 10 2012 board amendment, quorum is now 25%
 instead of 34% —sms.atom.bomb
+
