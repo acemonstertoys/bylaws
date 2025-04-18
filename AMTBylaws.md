@@ -461,8 +461,15 @@ name of the corporation, execute such deeds, mortgages, bonds,
 contracts, checks, or other instruments which may from time to time be
 authorized by the board of directors.
 
-SECTION 7. OMITTED DUE TO AMENDMENT BY BOARD OF DIRECTORS
+SECTION 7. DUTIES OF BOARD CHAIR.
 
+The Board Chair shall be a director and preside at all meetings of the Board,
+and exercise and perform such other powers and duties as may from time to
+time be assigned to him or her or them by the Board. If the position of
+President is vacant, the Board Chair shall act as the chief executive officer
+of the corporation. If the Corporation has both a Board Chair and a President,
+the Board shall, by resolution, establish the specific duties carried by each
+position.
 
 SECTION 8. DUTIES OF SECRETARY
 
