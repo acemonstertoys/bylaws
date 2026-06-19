@@ -192,8 +192,8 @@ by directors and not by persons who are not directors.
 
 SECTION 8. REGULAR AND ANNUAL MEETINGS
 
-Regular meetings of directors shall be held on the third Thursday of the
-month at 6:00 PM, unless such day falls on a legal holiday, in which
+Regular meetings of directors shall be held on the second Tuesday of the
+month at 7:00 PM, unless such day falls on a legal holiday, in which
 event the regular meeting shall be held at the same hour and place on
 the next business day.
 
